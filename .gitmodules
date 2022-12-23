@@ -1,0 +1,54 @@
+[submodule ".config/emacs"]
+	path = .config/emacs
+	url = https://github.com/doomemacs/doomemacs
+[submodule ".config/prelude"]
+	path = .config/prelude
+	url = https://github.com/bbatsov/prelude.git
+[submodule ".emacs.d"]
+	path = .emacs.d
+	url = https://github.com/plexus/chemacs2
+[submodule ".config/tmux"]
+	path = .config/tmux
+	url = git@github.com:typesAreSpaces/tmux.config.git
+[submodule ".config/nvim"]
+	path = .config/nvim
+	url = git@github.com:typesAreSpaces/nvim.conf.git
+[submodule ".config/zsh"]
+	path = .config/zsh
+	url = git@github.com:typesAreSpaces/zsh.config.git
+[submodule "texmf/tex/latex/local"]
+	path = texmf/tex/latex/local
+	url = git@github.com:typesAreSpaces/PersonalLatexMacros.git
+[submodule ".config/vim"]
+	path = .config/vim
+	url = git@github.com:typesAreSpaces/vim.conf
+[submodule ".config/helix"]
+	path = .config/helix
+	url = git@github.com:typesAreSpaces/helix.conf
+[submodule ".config/xmodmap"]
+	path = .config/xmodmap
+	url = git@github.com:typesAreSpaces/xmodmap.conf
+[submodule ".config/jose-emacs"]
+	path = .config/jose-emacs
+	url = git@github.com:typesAreSpaces/.emacs.d.git
+[submodule ".config/bspwm"]
+	path = .config/bspwm
+	url = git@github.com:typesAreSpaces/bspwm.config
+[submodule ".config/sxhkd"]
+	path = .config/sxhkd
+	url = git@github.com:typesAreSpaces/sxhkd.config
+[submodule ".local/scripts"]
+	path = .local/scripts
+	url = git@github.com:typesAreSpaces/localScripts
+[submodule ".config/zathura"]
+	path = .config/zathura
+	url = git@github.com:typesAreSpaces/zathura.conf.git
+[submodule ".config/latexmk"]
+	path = .config/latexmk
+	url = git@github.com:typesAreSpaces/latexmk.conf.git
+[submodule ".config/alacritty"]
+	path = .config/alacritty
+	url = git@github.com:typesAreSpaces/alacritty.conf.git
+[submodule ".config/polybar"]
+	path = .config/polybar
+	url = git@github.com:typesAreSpaces/polybar.conf.git
